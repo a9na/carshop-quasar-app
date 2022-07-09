@@ -110,13 +110,6 @@
       </section>
     </q-footer>
     <q-page-container style="height: 100%">
-      <!--  <q-page-scroller
-        position="bottom-right"
-        :scroll-offset="150"
-        :offset="[50, 50]"
-      >
-        <q-btn fab icon="keyboard_arrow_up" color="primary" />
-      </q-page-scroller> -->
       <Router-View />
     </q-page-container>
   </q-layout>
