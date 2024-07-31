@@ -1,7 +1,7 @@
 #  🚙💰 Car Shop Website (Built with Quasar)
 
-This project is a Quasar application designed to showcase a car shop's services and offerings. 
-Quasar provides a comprehensive framework for building responsive and cross-platform Vue.js applications, making it an excellent choice for this project.
+This project is a Quasar application tailored to highlight the services and offerings of a car shop. 
+Leveraging Quasar's robust framework allows for building a responsive and cross-platform Vue.js application, ensuring a seamless and engaging user experience across various devices. 
 
 ### Languages & Technologies used:
 
